@@ -209,7 +209,7 @@ nav {
   width: 36.8%;
   height: 65%;
   border-radius: 20%;
-  background-color: #3c8377;
+  background-color: #32d006;
   position: absolute;
   top: 0;
   /* left: 12rem; */
@@ -340,7 +340,7 @@ footer {
 }
 
 .dark-mode h1 {
-  color: red;
+  color: rgb(38, 205, 9);
 }
 .dark-mode .order {
   background-color: red;
